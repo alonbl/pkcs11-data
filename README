@@ -1,0 +1,13 @@
+pkcs11-data -- PKCS#11 data object manipulator.
+
+Copyright (c) 2005-2006 Alon Bar-Lev <alon.barlev@gmail.com>
+
+ABOUT
+	pkcs11-data is a tool to manipulate data objects resides on PKCS#11 enabled devices.
+
+SUPPORT
+	http://www.opensc-project.org
+
+AUTHORS
+	Alon Bar-Lev <alon.barlev@gmail.com>
+

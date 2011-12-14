@@ -1,0 +1,36 @@
+pkcs11-data
+Copyright (c) 2006 Alon Bar-Lev <alon.barlev@gmail.com>
+
+$Id: $
+
+2007-06-01 -- Version 0.7.3
+
+ * Man file fixups, thanks to Max Vozeler.
+ * Some license cleanups.
+
+2008-05-31 -- Version 0.7.2
+
+ * Fix OpenSSL license issue.
+ * Some build fixups.
+
+2008-04-15 -- Version 0.7.1
+
+ * Fix issue with multiple tokens.
+
+2007-12-01 -- Version 0.7.0
+
+ * Added --prompt-prog parameter to allow script
+   execution instead of console interaction.
+   Example is provided at prompt-prog.sh
+
+ * Some build fixups.
+
+2007-10-25 -- Version 0.6.0
+
+ * pkcs11-helper typo.
+
+2006-12-02 -- Version 0.5.0
+
+ * Autoconf package.
+
+ * pkcs11-helper is external dependency now.
